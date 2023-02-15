@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding:0;
+    
+    color:blueviolet;
+}
+.hulk{
+    margin:40px 10px 50px 25px;
+    padding:100px;
+
+
+    color:black ;
+    font-size: 60px;
+    background-color:aqua;
+}
+body{
+    margin:0;
+    padding:0;
+    
+    color:aquamarine;
+
+}
+.thor{
+    margin:40px 10px 50px 25px;
+    padding:120px;
+
+    color:aliceblue;
+    font-size: 80px;
+    background-color: brown;
+}
+body{
+    margin:0;
+    padding:0;
+    
+    color:black
+}
+.captainamerica{
+    margin: 40px 10px 50px 25px;
+    padding:140px;
+
+    color:blue;
+    font-size: 100px;
+    background-color:azure;
+    
+}
+body{
+margin:0;
+padding:0;
+}
+.rc{
+    margin:40px 10px 50px 25px;
+    padding:160px;
+
+    color:aqua;
+    font-size: 120px;
+    background-color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.spiderman{
+    margin:40px 10px 50px 25px;
+    padding:180px;
+    
+    color:black;
+    font-size: 150px;
+    background-color: aquamarine;
+}
